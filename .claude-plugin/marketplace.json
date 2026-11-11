@@ -1,0 +1,13 @@
+{
+  "name": "my-harness-marketplace",
+  "owner": {
+    "name": "akj"
+  },
+  "plugins": [
+    {
+      "name": "my-harness",
+      "source": "./plugins/my-harness",
+      "description": "검증 · 정리 에이전트와 위험 명령 차단 Hook 묶음"
+    }
+  ]
+}
